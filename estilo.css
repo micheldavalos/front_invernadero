@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th{
+    background: #0050AF;
+    height: 50px;
+    color: gray;
+    text-align: left;
+    
+}
+td{
+    text-align: center;
+    background: gray
+}
