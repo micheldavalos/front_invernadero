@@ -5,12 +5,12 @@ table{
 
 th{
     background: #0050AF;
-    height: 50px;
-    color: gray;
+    height: 30px;
+    color: black;
     text-align: left;
     
 }
 td{
-    text-align: center;
+    text-align: left;
     background: gray
 }
